@@ -17,5 +17,6 @@ print(f"Simple Interest = {simple_interest:.2f}")
 print(f"Compound Interest = {compound_interest:.2f}")
 
 # Optional: show total amount for each
+print("hello")
 print(f"Total Amount (with Simple Interest) = {principal + simple_interest:.2f}")
 print(f"Total Amount (with Compound Interest) = {principal + compound_interest:.2f}")
